@@ -1,0 +1,10 @@
+{
+  "version": "0.2.87",
+  "pub_date": "2026-08-17T17:49:30.541Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdWRTR1pHVDRDYmVQQjZmSlR6aG9GZ00waERGdE9OQ2xhdUlmOGczbFhsQm1TTXBUV0l2YjVsaFhHMDd4aEpPTXFaa05hMXFVWS8rTDVIYmc3V2Q5cjE4MEtWMk9EbmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTg4OTY3CWZpbGU6QUxHRSBFZGl0b3JfMC4yLjg3X3g2NC1zZXR1cC5leGUKbUY3S29kMUM4eC8yWFJXeDBMMDVHRkRobDUrM1dUd2VwMzJJZjdMMUZsVEdldER6Z0M5S0FRUnFYc2dhdmFMRlp3NnhRajI0SXF4bXdTaitCSmtiQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/mertakkan/plana-releases/feed/ALGE-Editor_0.2.87_x64-setup.exe"
+    }
+  }
+}
